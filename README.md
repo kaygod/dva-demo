@@ -6,5 +6,5 @@
 
 ## 1.下载项目,运行 npm intall 安装依赖
 
-## 2.运行 npm run serve
+## 2.运行 npm run start
 
