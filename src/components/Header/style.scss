@@ -1,0 +1,24 @@
+.header{
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #eee;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+    line-height: 70px;
+    position: relative;
+    .back {
+        position: absolute;
+        left: 20px;
+        top: 2px;
+        font-size: 14px;
+        color: #005aa0;
+    }
+    .login {
+        position: absolute;
+        right: 20px;
+        top: 2px;
+        font-size: 14px;
+        color: #005aa0;
+    }
+}
